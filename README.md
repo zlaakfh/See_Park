@@ -47,3 +47,4 @@ MobileNetV3 기반의 모방 학습(Imitation Learning) 모델을 적용하여 �
 ---
 
 ## 🌐 Web Interface
+<img src="./img/web_fast.gif" width="480" alt="web Demo"/>
