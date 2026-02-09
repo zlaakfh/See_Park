@@ -21,7 +21,7 @@ MobileNetV3 기반의 모방 학습(Imitation Learning) 모델을 적용하여 �
 ## 🧠 Software & Algorithm
 
 ### 모방 학습 (Imitation Learning)
-본 프로젝트는 **End-to-End 모방 학습**을 통해 로봇을 제어합니다. 효율적인 연산을 위해 경량화 모델인 **MobileNetV3-Small**을 백본(Backbone)으로 사용했습니다.
+본 프로젝트는 **모방 학습**을 통해 로봇을 제어합니다. 효율적인 연산을 위해 경량화 모델인 **MobileNetV3-Small**을 백본(Backbone)으로 사용했습니다.
 
 ### Model Architecture: Multi-Head Network
 단일 모델에서 주행과 판단을 동시에 처리하기 위해 멀티 헤드(Multi-Head) 구조를 채택했습니다.
