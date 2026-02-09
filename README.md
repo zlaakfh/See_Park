@@ -8,6 +8,7 @@ MobileNetV3 기반의 모방 학습(Imitation Learning) 모델을 적용하여 �
 ## 🛠 Hardware (H/W)
 
 **Platform:** Hiwonder MentorPi (Ackerman Steering)  
+**Device:** Raspberry Pi 5 8GB memory
 **System:** ROS2 Environment
 
 <div align="center">
