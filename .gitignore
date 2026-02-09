@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# ROS
+build/
+install/
+log/
+
+# Dataset / weights
+*.pt
+*.pth
+*.bag
+*.db3
+datasets/
+data/
+
+# OS
+.DS_Store
+Thumbs.db
