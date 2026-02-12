@@ -1,4 +1,4 @@
-# 🚗 Valet Parking Project
+# 🚗 See:Park - 모방학습을 활용한 자율주행 발렛 파킹 로봇
 
 ROS2 기반의 **Hiwonder MentorPi**를 활용한 자율 주차 및 주행 프로젝트입니다.  
 MobileNetV3 기반의 모방 학습(Imitation Learning) 모델을 적용하여 주행 제어와 객체 인식을 동시에 수행합니다.
