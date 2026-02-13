@@ -32,7 +32,7 @@ MobileNetV3 기반의 모방 학습(Imitation Learning) 모델을 적용하여 �
 
 ---
 
-## 📺 Demos
+## 📺 Demo
 
 실제 주행 및 주차 테스트 결과입니다.
 
