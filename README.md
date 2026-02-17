@@ -19,7 +19,7 @@ MobileNetV3 기반의 모방 학습(Imitation Learning) 모델을 적용하여 �
   <p><em>Hiwonder MentorPi Ackerman</em></p>
 </div>
 <div align="center">
-  <img src="./img/robot.jpg" width="480" alt="MentorPi Hardware"/>
+  <img src="./img/robot.jpg" width="300" alt="MentorPi Hardware"/>
   <p><em>Our Robot with 4 cameras</em></p>
 </div>
 
