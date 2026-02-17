@@ -3,8 +3,10 @@
 ROS2 기반의 **Hiwonder MentorPi**를 활용한 자율 주차 및 주행 프로젝트입니다.  
 MobileNetV3 기반의 모방 학습(Imitation Learning) 모델을 적용하여 주행 제어와 객체 인식을 동시에 수행합니다.
 
-<img src="./img/track.jpg" width="480" alt="Track"/>
----
+<div align="center">
+  <img src="./img/track.jpg" width="480" alt="Track"/>
+  <p><em>Track & Scenario</em></p>
+</div>
 
 ## 🛠 Hardware (H/W)
 
@@ -17,10 +19,9 @@ MobileNetV3 기반의 모방 학습(Imitation Learning) 모델을 적용하여 �
   <p><em>Hiwonder MentorPi Ackerman</em></p>
 </div>
 <div align="center">
-  <img src="./img/robot.jpg" width="300" alt="MentorPi Hardware"/>
+  <img src="./img/robot.jpg" width="480" alt="MentorPi Hardware"/>
   <p><em>Our Robot with 4 cameras</em></p>
 </div>
----
 
 ## 🧠 Software & Algorithm
 
@@ -33,9 +34,16 @@ MobileNetV3 기반의 모방 학습(Imitation Learning) 모델을 적용하여 �
 * **Backbone:** MobileNetV3-Small (Feature Extractor)
 * **Head 1 (Regression):** `cmd_vel` 예측 (선형 속도 및 각속도 제어)
 * **Head 2 (Classification):** 상태 분류 (표지판 인식, 주차 완료 상태 판별 등)
-<img src="./img/driving_model.jpg" width="480" alt="Parking Demo"/>
-<img src="./img/parking_model.jpg" width="480" alt="Parking Demo"/>
----
+
+<div align="center">
+  <img src="./img/driving_model.jpg" width="480" alt="Parking Demo"/>
+  <p><em>Our Robot with 4 cameras</em></p>
+</div>
+<div align="center">
+  <img src="./img/parking_model.jpg" width="480" alt="Parking Demo"/>
+  <p><em>Our Robot with 4 cameras</em></p>
+</div>
+
 
 ## 📺 Demo
 
