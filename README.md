@@ -27,7 +27,7 @@ MobileNetV3 기반의 모방 학습(Imitation Learning) 모델을 적용하여 �
   <p><em>Our Robot with 4 cameras</em></p>
 </div>
 
-## 🧠 Software (H/W)
+## 🧠 Software (S/W)
 
 **System:** 
 * ROS2 Environment
